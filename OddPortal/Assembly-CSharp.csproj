@@ -62,9 +62,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Camcontrol.cs" />
-    <Compile Include="Assets\PlayerControl.cs" />
-    <None Include="Assets\ScreenCutoutShader.shader" />
+    <Compile Include="Assets\script\Camcontrol.cs" />
+    <Compile Include="Assets\script\PlayerControl.cs" />
+    <Compile Include="Assets\script\Portal.cs" />
+    <None Include="Assets\shader\ScreenCutoutShader.shader" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
